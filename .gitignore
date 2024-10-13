@@ -1,0 +1,6 @@
+.vscode/
+.bin/
+.obj/
+voyage.cbp
+voyage.depend
+voyage.layout
